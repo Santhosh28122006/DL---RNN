@@ -122,7 +122,6 @@ for epoch in range(num_epochs):
 ![alt text](image-3.png)
 
 ## RESULT
-## RESULT
 
 Thus, the RNN model was successfully developed and used to predict stock prices from historical data.
 
